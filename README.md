@@ -87,7 +87,7 @@ flutter run
 
 - Noms complets des membres du groupe
 - Rôles/répartition des tâches
-- Email universitaire
+- Email universitaire / CEGEP / Personnel
 
 **g. Technologies utilisées**
 
